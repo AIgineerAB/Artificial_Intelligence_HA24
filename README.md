@@ -1,4 +1,4 @@
-# Artificial intelligence course
+# Artificial intelligence (OPA23GB_AI2)
 
 In this course, you'll dive into the concepts of AI to develop and use algorithms to solve real world problems. The course starts off with classical machine learning which are based on statistical methods, covering topics such as regression, classifications, supervised and unsupervised learning, evaluation, then moving towards artificial neural networks, deep learning and finally generative models. Throughout the journey you will get to work with tabular data, recommendation systems, computer vision, large language models and creating dashboards for end users to enjoy.
 
