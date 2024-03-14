@@ -20,8 +20,8 @@ Note that linear algebra and basic statistics are good to have, but not mandator
 | 16   | ANN, gradient descent, deep learning, TensorFlow, Keras, Lab 1                                                                                                                                      |
 | 17   | Image processing, opencv, computer vision, CNN, hyperparameter tuning, Lab 2                                                                                                                        |
 | 18   | Data augmentation, transfer learning, Lab 2                                                                                                                                                         |
-| 19   | NLP, Transformers, LLM, RAG, Lab 2                                                                                                                                                                  |
-| 20   | python modules, dash, layout, html, callbacks, git branches, project                                                                                                                                |
-| 21   | project, dash mantine components, deployment                                                                                                                                                        |
+| 19   | NLP, Transformers, LLM, Lab 2                                                                                                                                                                       |
+| 20   | python modules, TBD, git branches, project                                                                                                                                                          |
+| 21   | project, TBD, deployment                                                                                                                                                                            |
 | 22   | project, prompt engineering                                                                                                                                                                         |
 | 23   | project with presentation of dashboard, AI safety and ethics                                                                                                                                        |
