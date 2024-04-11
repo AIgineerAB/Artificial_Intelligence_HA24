@@ -18,10 +18,10 @@ Note that linear algebra and basic statistics are good to have, but not mandator
 | 14   | Classification: Logistic regression, KNN, gridsearch, Lab 1                                                                                                                                         |
 | 15   | Decision tree, Random forest, XGBoost, bayesian optimization, unsupervised learning: K-means, Lab 1                                                                                                 |
 | 16   | Focus on lab 1                                                                                                                                                                                      |
-| 17   | ANN, gradient descent, deep learning, TensorFlow, Keras, Lab 1                                                                                                                                      |
+| 17   | ANN, gradient descent, deep learning, TensorFlow, Keras                                                                                                                                             |
 | 18   | Image processing, opencv, computer vision, CNN, hyperparameter tuning, Lab 2                                                                                                                        |
 | 19   | Data augmentation, transfer learning, Lab 2                                                                                                                                                         |
 | 20   | NLP, Transformers, LLM, Lab 2                                                                                                                                                                       |
 | 21   | python modules, TBD, git branches, project                                                                                                                                                          |
 | 22   | project, TBD, deployment                                                                                                                                                                            |
-| 23   | project with presentation, prompt engineering, AI safety and ethics                                                                                                                    |
+| 23   | project with presentation, prompt engineering, AI safety and ethics                                                                                                                                 |
