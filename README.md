@@ -23,5 +23,5 @@ Note that linear algebra and basic statistics are good to have, but not mandator
 | 19   | Data augmentation, transfer learning, Lab 2                                                                                                                                                         |
 | 20   | AI act, focus on Lab 2                                                                                                                                                                              |
 | 21   | transformers, LLM, python modules, git branches, mini project                                                                                                                                       |
-| 22   | focus on project, prompt engineering                                                                                                                                                                                       |
-| 23   | project with presentation, AI safety and ethics                                                                                                                                 |
+| 22   | focus on project, prompt engineering                                                                                                                                                                |
+| 23   | project with presentation, AI safety and ethics                                                                                                                                                     |
