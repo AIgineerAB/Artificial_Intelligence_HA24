@@ -164,3 +164,7 @@ ml-latest-small
 
 cat*
 dog*
+train 
+test
+original_data
+experiment
